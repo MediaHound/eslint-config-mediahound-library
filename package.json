@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mediahound-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint configuration for MediaHound Libraries",
   "main": "index.js",
   "keywords": [
@@ -14,7 +14,7 @@
     "url": "https://github.com/MediaHound/eslint-config-mediahound-library.git"
   },
   "peerDependencies": {
-    "babel-eslint": "^6.1.2",
-    "eslint-plugin-import": "^1.12.0"
+    "babel-eslint": "^7.1.1",
+    "eslint-plugin-import": "^2.2.0"
   }
 }
